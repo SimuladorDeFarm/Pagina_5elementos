@@ -12,7 +12,7 @@ const ModalEnergizacionIntegral = (
           <li>Es una excelente terapia para complementar tu tratamiento médico para diversas enfermedades, dolencias y síntomas.</li>
         </ol>
         <center>     
-          <h4>(Solo disponible para Chile. Costo de envío no incluido en valor de servicio)</h4>
+          <h4>(Solo disponible para Chile. Costo de envío de esencias florales no incluido en valor de servicio)</h4>
           <h4>*Tener en cuenta que al utilizar PayPal, los pagos se procesarán en dólares estadounidenses (USD)*</h4>
         </center>
       </>
